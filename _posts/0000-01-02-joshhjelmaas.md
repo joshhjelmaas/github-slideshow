@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Josh Hjelmaas's slide!"
 ---
-I want to get off Mr. Bones' Wild Ride! P L E A S E :^)
+'Professional' is my middle name.
 Use the left arrow to go back!
